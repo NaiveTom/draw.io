@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T23:41:02.986Z" agent="5.0 (Windows)" etag="dCnodGIKHy1yTMUMoT0N" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T23:42:32.901Z" agent="5.0 (Windows)" etag="sUj2yiFp04jGN8ljfmOx" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -716,7 +716,7 @@
         <mxCell id="44AiBCDxBOzTBdy34bFM-751" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="665" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ehlFxMS1mAo0d8vLHFDj-1" value="Two-dimensional convolution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ehlFxMS1mAo0d8vLHFDj-1" value="&lt;div&gt;CNN layers&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="430" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ehlFxMS1mAo0d8vLHFDj-52" style="rounded=1;jumpSize=20;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="ehlFxMS1mAo0d8vLHFDj-30" target="ehlFxMS1mAo0d8vLHFDj-48" edge="1">
