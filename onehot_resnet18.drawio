@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T01:18:59.514Z" agent="5.0 (Windows)" etag="KIMtmiJgUO2zYzVEDtZ2" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T01:19:10.860Z" agent="5.0 (Windows)" etag="T3IZlDPkwKsw79lw4I9Q" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1617,7 +1617,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-393" value="Resnet Shortcut" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="250" height="20" as="geometry" />
+          <mxGeometry x="570" y="90" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-394" value="Resnet Shortcut" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="90" width="250" height="20" as="geometry" />
