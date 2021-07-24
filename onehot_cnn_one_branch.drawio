@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T11:07:04.191Z" agent="5.0 (Windows)" etag="QORqY5wqhxAgdcja33NO" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T11:07:17.175Z" agent="5.0 (Windows)" etag="S0m7tOcX3n7126oVWCTZ" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
-    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="44AiBCDxBOzTBdy34bFM-65" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="252.63" width="160" height="20" as="geometry" />
+          <mxGeometry x="90" y="258.25" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="44AiBCDxBOzTBdy34bFM-129" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="407" width="160" height="20" as="geometry" />
@@ -346,10 +346,10 @@
           <mxGeometry x="420" y="328.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-379" value="Dense layers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="586" y="399.25" width="90" height="20" as="geometry" />
+          <mxGeometry x="589.75" y="407" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-380" value="Flatten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="500.5" y="399.25" width="21" height="20" as="geometry" />
+          <mxGeometry x="504.25" y="407" width="21" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-381" style="edgeStyle=none;rounded=1;jumpSize=20;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="cqIsUIiBQY2y6wm-BXva-383" target="cqIsUIiBQY2y6wm-BXva-408">
           <mxGeometry relative="1" as="geometry" />
@@ -448,7 +448,7 @@
           <mxGeometry x="657" y="360.25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-409" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Output&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="766.75" y="399.25" width="22.5" height="20" as="geometry" />
+          <mxGeometry x="770.5" y="407" width="22.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-410" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="763" y="258.25" width="30" height="30" as="geometry" />
