@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T11:48:59.234Z" agent="5.0 (Windows)" etag="fKzjGHPMFtV65oJMxzXu" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:44:04.232Z" agent="5.0 (Windows)" etag="c0wjw575Oz6PrAJml-jW" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
-    <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="44AiBCDxBOzTBdy34bFM-65" value="&lt;div&gt;Promoter in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="44AiBCDxBOzTBdy34bFM-65" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="258.5" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="44AiBCDxBOzTBdy34bFM-129" value="&lt;div&gt;Enhancer in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="382.5" width="160" height="20" as="geometry" />
+        <mxCell id="44AiBCDxBOzTBdy34bFM-129" value="&lt;div&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="389.5" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cqIsUIiBQY2y6wm-BXva-219" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="213.5" width="40" height="20" as="geometry" />
