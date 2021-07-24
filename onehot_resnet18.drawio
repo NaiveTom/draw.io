@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T09:07:59.176Z" agent="5.0 (Windows)" etag="Y_CsLYrfqQ2qDvXWqYF9" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T10:44:52.759Z" agent="5.0 (Windows)" etag="mqEprXPpxlEEFoimDVPi" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -727,7 +727,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-684" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="200" y="555" width="160" height="20" as="geometry" />
+          <mxGeometry x="210" y="555.5" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-685" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="210" y="694" width="160" height="20" as="geometry" />
