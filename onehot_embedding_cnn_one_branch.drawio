@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T11:53:09.880Z" agent="5.0 (Windows)" etag="bAlnQzmCYllYjaDZKQIQ" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:44:39.960Z" agent="5.0 (Windows)" etag="TuuL4BeHz1xd5H6zMNTn" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,12 +106,6 @@
         </mxCell>
         <mxCell id="luZRHkZ189JOT4w14sl7-212" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="452" y="323" width="28" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="luZRHkZ189JOT4w14sl7-213" value="&lt;div&gt;Promoter in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="156" y="261" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="luZRHkZ189JOT4w14sl7-214" value="&lt;div&gt;Enhancer in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="156" y="385" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="luZRHkZ189JOT4w14sl7-215" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="216" width="40" height="20" as="geometry" />
@@ -620,6 +614,12 @@
         </mxCell>
         <mxCell id="luZRHkZ189JOT4w14sl7-373" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1156" y="304" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luZRHkZ189JOT4w14sl7-374" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="156" y="260.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="luZRHkZ189JOT4w14sl7-375" value="&lt;div&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="156" y="391.5" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
