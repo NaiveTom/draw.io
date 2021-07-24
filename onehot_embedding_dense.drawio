@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T09:09:20.207Z" agent="5.0 (Windows)" etag="lKS4TXm09zyDveMGnTdy" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T10:52:43.308Z" agent="5.0 (Windows)" etag="tIxEA9_ly1fZm5-bx2Vu" version="14.8.5" type="github">
   <diagram id="gIogGsXuzQi1VI0tjLUq" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -317,10 +317,10 @@
           <mxGeometry x="420" y="374.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-157" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="290" y="299.5" width="160" height="20" as="geometry" />
+          <mxGeometry x="290" y="306.5" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-158" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="290" y="450" width="160" height="20" as="geometry" />
+          <mxGeometry x="290" y="460" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-159" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;embedding layer&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;6kmer by 100d&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="539" y="404" width="160" height="20" as="geometry" />
@@ -332,10 +332,10 @@
           <mxGeometry x="469" y="285" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-162" value="Dense layers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="844" y="425.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="844" y="434.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-163" value="Flatten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="758.5" y="425.5" width="21" height="20" as="geometry" />
+          <mxGeometry x="758.5" y="434.5" width="21" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-164" style="edgeStyle=none;rounded=1;jumpSize=20;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="4BS046eD1vQbMhQOOICh-166" target="4BS046eD1vQbMhQOOICh-191">
           <mxGeometry relative="1" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry x="915" y="386.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-192" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Output&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1024.75" y="425.5" width="22.5" height="20" as="geometry" />
+          <mxGeometry x="1024.75" y="434.5" width="22.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-193" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1021" y="284.5" width="30" height="30" as="geometry" />
