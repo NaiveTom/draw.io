@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T08:38:56.940Z" agent="5.0 (Windows)" etag="Ry9DUUjL3En9Sd_VPFet" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:43:19.947Z" agent="5.0 (Windows)" etag="Ald6Nbxf6cTRlDBr602E" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
-    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,9 +14,6 @@
             <mxPoint x="440.0000000000001" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="44AiBCDxBOzTBdy34bFM-65" value="&lt;div&gt;Promoter in String&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="208" y="248" width="160" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="sUNE9Ao9WOD159sY9nD--52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -26,9 +23,6 @@
             <mxPoint x="338" y="362" as="sourcePoint" />
             <mxPoint x="440.0000000000001" y="297" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="44AiBCDxBOzTBdy34bFM-129" value="&lt;div&gt;Enhancer in String&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="208" y="375" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sIM_7fNKrBLGrNyowHgk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -390,6 +384,12 @@
         </mxCell>
         <mxCell id="sIM_7fNKrBLGrNyowHgk-180" value="&lt;font color=&quot;#0000CC&quot;&gt;ACG ...&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_7fNKrBLGrNyowHgk-181" value="Interaction Region1 Sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="248" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sIM_7fNKrBLGrNyowHgk-182" value="Interaction Region2 Sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
