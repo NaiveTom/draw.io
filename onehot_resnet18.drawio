@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T08:34:50.002Z" agent="5.0 (Windows)" etag="PLvhEoEQa2Nidn34JfJt" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:45:11.805Z" agent="5.0 (Windows)" etag="KUZ5FvlxvP1nsLACzJC1" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -490,9 +490,6 @@
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-602" value="Resnet Shortcut" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="470" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kqRgGIrwKwdqKhj7u-J3-603" value="&lt;div&gt;Promoter in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="539" width="160" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-604" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="499" width="40" height="20" as="geometry" />
         </mxCell>
@@ -594,9 +591,6 @@
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-636" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="479" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kqRgGIrwKwdqKhj7u-J3-637" value="&lt;div&gt;Enhancer in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="678.5" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-638" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="638.5" width="40" height="20" as="geometry" />
@@ -731,6 +725,12 @@
             <mxPoint x="950.0000000000001" y="685.4" as="sourcePoint" />
             <mxPoint x="1001.329999999995" y="685.42" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kqRgGIrwKwdqKhj7u-J3-684" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="548" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kqRgGIrwKwdqKhj7u-J3-685" value="&lt;div&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="689.5" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
