@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T09:07:43.947Z" agent="5.0 (Windows)" etag="8jvCDyFEctSZx5SR1y3o" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T09:07:51.038Z" agent="5.0 (Windows)" etag="V9f5sgX304i7G5ySOsDz" version="14.8.5" type="github">
   <diagram id="KxuiyelQ4g_LW83yEsCo" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-546" value="Resnet Shortcut" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="697" y="470" width="250" height="20" as="geometry" />
+          <mxGeometry x="697" y="467" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-547" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-602" value="Resnet Shortcut" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="538" y="470" width="250" height="20" as="geometry" />
+          <mxGeometry x="538" y="467" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqRgGIrwKwdqKhj7u-J3-604" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="499" width="40" height="20" as="geometry" />
