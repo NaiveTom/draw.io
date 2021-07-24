@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T11:56:37.240Z" agent="5.0 (Windows)" etag="IQOHQRLUWY-SVpmnpN9R" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:44:59.739Z" agent="5.0 (Windows)" etag="_RZz2CgphdwKdsYQQQdb" version="14.8.5" type="github">
   <diagram id="gIogGsXuzQi1VI0tjLUq" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -101,12 +101,6 @@
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-32" value="&lt;div&gt;embedding layer&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="395" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4BS046eD1vQbMhQOOICh-33" value="&lt;div&gt;Promoter in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4BS046eD1vQbMhQOOICh-34" value="&lt;div&gt;Enhancer in one-hot&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="424" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-35" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="255" width="40" height="20" as="geometry" />
@@ -494,6 +488,12 @@
         </mxCell>
         <mxCell id="4BS046eD1vQbMhQOOICh-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1099" y="345" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4BS046eD1vQbMhQOOICh-157" value="One-hot Encoded Sequence in Interaction Region1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4BS046eD1vQbMhQOOICh-158" value="&lt;div&gt;One-hot Encoded Sequence in Interaction Region2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="431.5" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
