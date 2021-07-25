@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T02:22:44.778Z" agent="5.0 (Windows)" etag="1w9fox6q4WMjGfZGvrqn" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T02:22:52.231Z" agent="5.0 (Windows)" etag="NdrphoTGE7JDP5TDFUgc" version="14.8.5" type="github">
   <diagram id="9VXw7aCaLRtWzQimCSuJ" name="Page-1">
-    <mxGraphModel dx="3555" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1624,7 +1624,7 @@
             <mxPoint x="1077.079999999995" y="775.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXPkC3EtGzi62W7Gksbs-476" value="onehot_cnn_one_branch" style="text;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fontColor=#CC0000;shadow=1;" vertex="1" parent="1">
+        <mxCell id="cXPkC3EtGzi62W7Gksbs-476" value="onehot_cnn_one_branch" style="text;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fontColor=#CC0000;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="789.75" y="470" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXPkC3EtGzi62W7Gksbs-477" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=20;" edge="1" parent="1">
